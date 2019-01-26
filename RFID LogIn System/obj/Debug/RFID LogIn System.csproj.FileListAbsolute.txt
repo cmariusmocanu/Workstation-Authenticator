@@ -1,0 +1,25 @@
+C:\Users\Rezzy\Desktop\RFID LogIn System\bin\Debug\RFID LogIn System.exe.config
+C:\Users\Rezzy\Desktop\RFID LogIn System\bin\Debug\RFID LogIn System.exe
+C:\Users\Rezzy\Desktop\RFID LogIn System\bin\Debug\RFID LogIn System.pdb
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.csprojResolveAssemblyReference.cache
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID_LogIn_System.Form1.resources
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID_LogIn_System.Properties.Resources.resources
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.csproj.GenerateResource.Cache
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.csproj.CoreCompileInputs.cache
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.exe
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.pdb
+C:\Users\Rezzy\Desktop\RFID LogIn System\obj\Debug\RFID_LogIn_System.Form2.resources
+C:\Users\Lexy\Desktop\RFID LogIn System\bin\Debug\RFID LogIn System.exe.config
+C:\Users\Lexy\Desktop\RFID LogIn System\bin\Debug\RFID LogIn System.exe
+C:\Users\Lexy\Desktop\RFID LogIn System\bin\Debug\RFID LogIn System.pdb
+C:\Users\Lexy\Desktop\RFID LogIn System\bin\Debug\MySql.Data.dll
+C:\Users\Lexy\Desktop\RFID LogIn System\bin\Debug\MySql.Data.xml
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.csprojResolveAssemblyReference.cache
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID_LogIn_System.Form1.resources
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID_LogIn_System.Properties.Resources.resources
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.csproj.GenerateResource.Cache
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.csproj.CoreCompileInputs.cache
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.exe
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID LogIn System.pdb
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID_LogIn_System.Admin.resources
+C:\Users\Lexy\Desktop\RFID LogIn System\obj\Debug\RFID_LogIn_System.User.resources
